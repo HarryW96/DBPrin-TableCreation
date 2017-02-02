@@ -1,3 +1,5 @@
+create database dbprin_cwk;
+
 create table event (
   eventID int auto_increment,
   eventName varchar(50) not null,
@@ -7,7 +9,7 @@ create table event (
   eventLocation varchar(50) not null,
   eventLength_Km int not null,
   primary key (eventID));
---Done--
+
 create table volunteer(
   volunteerID int auto_increment,
   fName varchar(25) not null,
@@ -17,17 +19,18 @@ create table volunteer(
   firstAid boolean not null,
   primary key (volunteerID)
 );
---Done--
+
 create table eventVolunteer(
+  volunteerEventAssignment int auto_increment,
   eventID int,
   volunteerID int,
   foreign key(eventID)
   references event(eventID),
   foreign key(volunteerID)
   references volunteer(volunteerID),
-  primary key (eventID, volunteerID)
+  primary key (eventAssignment)
 );
---To Do--
+
 create table staff(
   staffID int auto_increment,
   fName varchar(25) not null,
@@ -36,15 +39,16 @@ create table staff(
   email varchar(40) not null,
   primary key (staffID)
 );
---Done--
+
 create table eventStaff(
+  staffEventAssignment int auto_increment,
   eventID int,
   staffID int,
   foreign key(eventID)
   references event(eventID),
   foreign key(staffID)
   references staff(staffID),
-  primary key (eventID, staffID)
+  primary key (staffEventAssignment)
 );
 
 create table participent(
@@ -58,7 +62,9 @@ create table participent(
   primary key(participentID)
 );
 
+-------TO DO--------
 create table eventParticipent(
+  participationNum int auto_increment,
   eventID int,
   participentID int,
   paid boolean not null,
@@ -68,9 +74,9 @@ create table eventParticipent(
   references event(eventID),
   foreign key(participentID)
   references participent(participentID),
-  primary key (eventID, participentID)
+  primary key (participentNum)
 );
-
+--------------------
 create table station(
   stationID int auto_increment,
   eventID int null,

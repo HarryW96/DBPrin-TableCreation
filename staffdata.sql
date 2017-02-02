@@ -998,3 +998,13 @@ insert into staff (fName, lName, phoneNum, email) values ('Juan', 'Elliott', '13
 insert into staff (fName, lName, phoneNum, email) values ('Justin', 'Watkins', '744763029', 'jwatkinsrp@domainmarket.com');
 insert into staff (fName, lName, phoneNum, email) values ('Rose', 'Garcia', '237509688', 'rgarciarq@hostgator.com');
 insert into staff (fName, lName, phoneNum, email) values ('Cynthia', 'Matthews', '662993950', 'cmatthewsrr@lycos.com');
+
+insert into staff (fName, lName, phoneNum, email)
+  select fName, lName, phoneNum, email from staff;
+select count(*) from staff;
+
+create table staff2 like staff;
+  insert into staff2 (fName, lName, phoneNum, email) select fname, lname, phoneNum, email from staff;
+  delete from staff;
+  insert into staff select * from staff2;
+  drop table staff2;

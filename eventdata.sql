@@ -998,3 +998,13 @@ insert into event (eventName, eventDate, eventTime, eventCost, eventLocation, ev
 insert into event (eventName, eventDate, eventTime, eventCost, eventLocation, eventLength_Km) values ('nisl duis bibendum felis sed', '2015-05-05', '3:49 PM', 65, 'Calaba', 17);
 insert into event (eventName, eventDate, eventTime, eventCost, eventLocation, eventLength_Km) values ('vel augue vestibulum ante ipsum', '2014-11-13', '8:38 PM', 87, 'Bielefeld', 45);
 insert into event (eventName, eventDate, eventTime, eventCost, eventLocation, eventLength_Km) values ('enim blandit mi in', '2010-09-02', '5:18 PM', 64, 'Stochov', 88);
+
+insert into event (eventName, eventDate, eventTime, eventCost, eventLocation, eventLength_Km)
+  select eventName, eventDate, eventTime, eventCost, eventLocation, eventLength_Km from event;
+select count(*) from event;
+
+create table event2 like event;
+  insert into event2 (eventName, eventDate, eventTime, eventCost, eventLocation, eventLength_Km) select eventName, eventDate, eventTime, eventCost, eventLocation, eventLength_Km from event;
+  delete from event;
+  insert into event select * from event2;
+  drop table event2;

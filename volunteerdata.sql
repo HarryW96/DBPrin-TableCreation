@@ -998,3 +998,13 @@ insert into volunteer (fName, lName, phoneNum, email, firstAid) values ('Mary', 
 insert into volunteer (fName, lName, phoneNum, email, firstAid) values ('Lawrence', 'Carroll', '680618455', 'lcarrollrp@jigsy.com', true);
 insert into volunteer (fName, lName, phoneNum, email, firstAid) values ('Jose', 'Watson', '846872022', 'jwatsonrq@parallels.com', true);
 insert into volunteer (fName, lName, phoneNum, email, firstAid) values ('Lori', 'Barnes', '504258158', 'lbarnesrr@japanpost.jp', false);
+
+insert into volunteer (fName, lName, phoneNum, email, firstAid)
+  select fName, lName, phoneNum, email, firstAid from volunteer;
+select count(*) from volunteer;
+
+create table volunteer2 like volunteer;
+  insert into volunteer2 (fName, lName, phoneNum, email, firstAid) select fName, lName, phoneNum, email, firstAid from volunteer;
+  delete from volunteer;
+  insert into volunteer select * from volunteer2;
+  drop table volunteer2;
