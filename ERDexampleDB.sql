@@ -7,7 +7,7 @@ create table event (
   eventLocation varchar(50) not null,
   eventLength_Km int not null,
   primary key (eventID));
-
+--Done--
 create table volunteer(
   volunteerID int auto_increment,
   fName varchar(25) not null,
@@ -17,7 +17,7 @@ create table volunteer(
   firstAid boolean not null,
   primary key (volunteerID)
 );
-
+--Done--
 create table eventVolunteer(
   eventID int,
   volunteerID int,
@@ -27,7 +27,7 @@ create table eventVolunteer(
   references volunteer(volunteerID),
   primary key (eventID, volunteerID)
 );
-
+--To Do--
 create table staff(
   staffID int auto_increment,
   fName varchar(25) not null,
@@ -36,7 +36,7 @@ create table staff(
   email varchar(40) not null,
   primary key (staffID)
 );
-
+--Done--
 create table eventStaff(
   eventID int,
   staffID int,
