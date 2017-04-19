@@ -1,0 +1,982 @@
+?oka                          |
+| Aanislag                      |
+| Aco                           |
+| Ágios Andréas                 |
+| Ágios Efstrátios              |
+| Agua Blanca                   |
+| Al Mughayyir                  |
+| Albacete                      |
+| Alcantara                     |
+| Alexandria                    |
+| Alingsås                      |
+| Aliwal North                  |
+| Almolonga                     |
+| Altamira                      |
+| Ambarakaraka                  |
+| Ampelgading                   |
+| Andalucía                     |
+| Angelochóri                   |
+| Anjepy                        |
+| Áno Kopanákion                |
+| Áno Sýros                     |
+| Anrong                        |
+| Antsirabe                     |
+| Anyang-si                     |
+| Aparecida                     |
+| Arras                         |
+| Arruda dos Vinhos             |
+| Artemivs’k                    |
+| Asempapak                     |
+| Askaniya Nova                 |
+| Asunción                      |
+| Atyrau                        |
+| Aubenas                       |
+| Avignon                       |
+| Ayagoz                        |
+| Azara                         |
+| B??dów                        |
+| B?l?i                         |
+| Bagnolet                      |
+| Bailieborough                 |
+| Baishuitan                    |
+| Baitashan                     |
+| Baixo Guandu                  |
+| Bajo Naranjillo               |
+| Ballyboden                    |
+| Balucawi                      |
+| Ban? Khall?d                  |
+| Bandera                       |
+| Bangekdewa                    |
+| Banjar Batanpoh               |
+| Banos                         |
+| Barra dos Coqueiros           |
+| Basseterre                    |
+| Batgr?m                       |
+| Baugo                         |
+| Bazhu                         |
+| Bcharré                       |
+| Beaumont                      |
+| Bebedouro                     |
+| Beibao                        |
+| Beigucheng                    |
+| Belo Oriente                  |
+| Bendo                         |
+| Berbérati                     |
+| Bergen                        |
+| Berlin                        |
+| Besançon                      |
+| Besteiros                     |
+| Bhakkar                       |
+| Biancheng                     |
+| Bielefeld                     |
+| Bielsk Podlaski               |
+| Bila Tserkva                  |
+| Birayang                      |
+| Birmingham                    |
+| Biryulëvo Zapadnoye           |
+| Biscoitos                     |
+| Bissorã                       |
+| Blagodarnyy                   |
+| Blangpulo                     |
+| Blawi                         |
+| Blois                         |
+| Bluefields                    |
+| Bobota                        |
+| Bojong                        |
+| Bojonglarang                  |
+| Boles?awiec                   |
+| Boljevci                      |
+| Bom Despacho                  |
+| Bourg-lès-Valence             |
+| Boynton Beach                 |
+| Boyu                          |
+| Bradenton                     |
+| Brooklyn                      |
+| Brudzew                       |
+| Bruxelles                     |
+| Brze?nica                     |
+| Buawan                        |
+| Bubanza                       |
+| Buchou                        |
+| Budzów                        |
+| Buenavista                    |
+| Bugarama                      |
+| Buket Teukuh                  |
+| Bukowiec                      |
+| Bulembu                       |
+| Bulog                         |
+| Bulubrangsi                   |
+| Burgos                        |
+| Buzuluk                       |
+| Cabuyao                       |
+| Cache Creek                   |
+| Calaba                        |
+| Camagüey                      |
+| Cambita Garabitos             |
+| Candi                         |
+| Canela                        |
+| Carepa                        |
+| Carrasqueira                  |
+| Cartagena                     |
+| Casablanca                    |
+| Casais                        |
+| Celestynów                    |
+| Celica                        |
+| Cemplang                      |
+| Cential                       |
+| Ceuta                         |
+| Ch? G?o                       |
+| Ch?ibská                      |
+| Chafé                         |
+| Chai Badan                    |
+| Chambly                       |
+| Chamni                        |
+| Changdai                      |
+| Changma                       |
+| Changning                     |
+| Changshan                     |
+| Changshu City                 |
+| Changtang                     |
+| Charikar                      |
+| Cheremshan                    |
+| Cherëmushki                   |
+| Chibombo                      |
+| Chibuto                       |
+| Chonchi                       |
+| Chow?êy                       |
+| Choya                         |
+| Chuangwang                    |
+| Chuanshan                     |
+| Chynadiyovo                   |
+| Ciawitali                     |
+| Cibaregbeg Dua                |
+| Cienfuegos                    |
+| Cigadung                      |
+| Cikalang                      |
+| Cilongkrangpusaka             |
+| Cimarelang                    |
+| Cipatat                       |
+| Clarence-Rockland             |
+| Coaraci                       |
+| Coayllo                       |
+| Colima                        |
+| Colotenango                   |
+| Comé                          |
+| Comrat                        |
+| Concordia                     |
+| Coolock                       |
+| Cordeirópolis                 |
+| Crespo                        |
+| Cruz Alta                     |
+| Cullhuas                      |
+| D?kštas                       |
+| Dadamtu                       |
+| Dalar                         |
+| Daliang                       |
+| Dalubian                      |
+| Dame-Marie                    |
+| Damnoen Saduak                |
+| Danderyd                      |
+| Daoxian                       |
+| Dashev                        |
+| Dawan                         |
+| Dawuhan                       |
+| Daying                        |
+| Dayr Ab? ?a‘?f                |
+| Delvinë                       |
+| Dem’yanovo                    |
+| Dengmu                        |
+| Desa Werasari                 |
+| Detroit                       |
+| Detupia                       |
+| Dhalie                        |
+| Dhidhdhoo                     |
+| Dimitrovgrad                  |
+| Dipayal                       |
+| Doctor Juan León Mallorquín   |
+| Donabate                      |
+| Dondar Qu?çu                  |
+| Dongqiao                      |
+| Dongxing                      |
+| Dornava                       |
+| Drammen                       |
+| Drien Rampak                  |
+| Duba                          |
+| Dubno                         |
+| Dukuh                         |
+| Dunlewy                       |
+| Duobaoshan                    |
+| Duoxiang                      |
+| Dushk                         |
+| Eci                           |
+| Eksjö                         |
+| El Adelanto                   |
+| El Charco                     |
+| El Hermel                     |
+| El Obeid                      |
+| El Triunfo de la Cruz         |
+| Elmira                        |
+| Elvas                         |
+| Emmen                         |
+| Ensanche Luperón              |
+| Erími                         |
+| España                        |
+| Esperança                     |
+| Fanrong                       |
+| Faraulep                      |
+| Farsta                        |
+| Far‘?n                        |
+| Fengyuan                      |
+| Fenoarivo Atsinanana          |
+| Ferreiros                     |
+| Figueira                      |
+| Florida                       |
+| Fort Wayne                    |
+| Foundiougne                   |
+| Fradelos                      |
+| Francos                       |
+| Fukuroi                       |
+| Fuxi                          |
+| Fuyu                          |
+| G?tsuch?                      |
+| Gamut                         |
+| Gandajika                     |
+| Gandusari                     |
+| Gangmian                      |
+| Ganlin                        |
+| Gaoming                       |
+| Gaya                          |
+| Gayam                         |
+| General Ramírez               |
+| Giawang                       |
+| Giedlarowa                    |
+| Glinojeck                     |
+| Glushkovo                     |
+| Gongjiang                     |
+| Gostimë                       |
+| Grojec                        |
+| Grästorp                      |
+| Guadalupe Victoria            |
+| Guaíba                        |
+| Guangyi                       |
+| Guaraciaba do Norte           |
+| Gudurica                      |
+| Guli                          |
+| Gulu                          |
+| Gununganyar                   |
+| Guojiazhuang                  |
+| Guri i Zi                     |
+| Gushikawa                     |
+| Gustavsberg                   |
+| Guwoterus                     |
+| Gvardeysk                     |
+| Göteborg                      |
+| Götene                        |
+| Hailin                        |
+| Halmstad                      |
+| Hamburg Bramfeld              |
+| Haoguantun                    |
+| Hashimoto                     |
+| Hats’avan                     |
+| Hatu Buh                      |
+| Hebei                         |
+| Hengli                        |
+| Herrán                        |
+| Herrljunga                    |
+| Heshan                        |
+| Heting                        |
+| Heung-hai                     |
+| High Point                    |
+| Hodoš                         |
+| Hoery?ng                      |
+| Hongor                        |
+| Horokhiv                      |
+| Hostos                        |
+| Houping                       |
+| Huainan                       |
+| Huangjiakou                   |
+| Huangmu                       |
+| Huangqi                       |
+| Huangrangping                 |
+| Huangshanguan                 |
+| Huangwei                      |
+| Huaribamba                    |
+| Huicheng                      |
+| Huilongshan                   |
+| Hushan                        |
+| Huskvarna                     |
+| Hutang                        |
+| Hwasun                        |
+| Hyesan-dong                   |
+| I?sko                         |
+| Ialibu                        |
+| Iganga                        |
+| Iguatu                        |
+| Ilek                          |
+| Ilopango                      |
+| Il’skiy                       |
+| Imtarfa                       |
+| Infantas                      |
+| Insiza                        |
+| Isakly                        |
+| Ishikawa                      |
+| Ishioka                       |
+| Itabira                       |
+| Itaqui                        |
+| Izumo                         |
+| J?jarm                        |
+| Jadranovo                     |
+| Jajar                         |
+| Jakubów                       |
+| Jambulang                     |
+| Janaka                        |
+| Jatirogo                      |
+| Jayapura                      |
+| Jequié                        |
+| Jeremi                        |
+| Jesús María                   |
+| Jianxin                       |
+| Jiaqu                         |
+| Jiaze                         |
+| Jieguanting                   |
+| Jinanten                      |
+| Jindong                       |
+| Jingkou                       |
+| Jinhe                         |
+| Jinpanling                    |
+| Jiujie                        |
+| Jocotenango                   |
+| Joroan                        |
+| Josefina                      |
+| Jovellar                      |
+| Juan Adrián                   |
+| K?trzyn                       |
+| K?ty Wroc?awskie              |
+| Kabaty                        |
+| Kadukandel                    |
+| Kaeng Khro                    |
+| Kai                           |
+| Kakaek                        |
+| Kamifukuoka                   |
+| Kamimaruko                    |
+| Kanda                         |
+| Kangping                      |
+| Kansas City                   |
+| Karang Kulon                  |
+| Karangagung Timur             |
+| Karuri                        |
+| Kaz                           |
+| Kebonsari                     |
+| Kedungwringin                 |
+| Keffin Hausa                  |
+| Keleleng                      |
+| Keles Timur                   |
+| Kentville                     |
+| Ketampak                      |
+| Khagrachhari                  |
+| Khantaghy                     |
+| Kharagauli                    |
+| Khlong Luang                  |
+| Kilingi-Nõmme                 |
+| Killorglin                    |
+| Kimry                         |
+| Kissidougou                   |
+| Kizilyurt                     |
+| Klakeh                        |
+| Klumpit                       |
+| Knoxville                     |
+| Koh Tao                       |
+| Kongkeshu                     |
+| Kopidlno                      |
+| Koson                         |
+| Kota Bharu                    |
+| Kota Kinabalu                 |
+| Krahës                        |
+| Krajan                        |
+| Krajan Rowokangkung           |
+| Krajan Tengah                 |
+| Kraslice                      |
+| Krasne                        |
+| Krasnokholmskiy               |
+| Kriel                         |
+| Kristiansand S                |
+| Krujë                         |
+| Krzy?anowice                  |
+| Kumla                         |
+| Kurikka                       |
+| Kuroishi                      |
+| Kus?ng                        |
+| Kushovë                       |
+| Kutorejo                      |
+| Kvasice                       |
+| Kvasiny                       |
+| Kwikila                       |
+| Kybartai                      |
+| Kyzyldzhar                    |
+| La Roche-sur-Yon              |
+| La Tinguiña                   |
+| La Uvita                      |
+| La Virginia                   |
+| Labrang                       |
+| Labytnangi                    |
+| Laiguangying                  |
+| Laizhou                       |
+| Lamadong                      |
+| Lampihung                     |
+| Langchi                       |
+| Langkapcaang Hilir            |
+| Lannion                       |
+| Larache                       |
+| Lashkar G?h                   |
+| Lawonda                       |
+| Lazaro Cardenas               |
+| Le Teil                       |
+| Le?ajsk                       |
+| Lebedyan’                     |
+| Lebowakgomo                   |
+| Lecheng                       |
+| Leganes                       |
+| Leidschendam                  |
+| Leigu                         |
+| Leku                          |
+| Lengshui                      |
+| Lensk                         |
+| Lewo                          |
+| Lhokkruet                     |
+| Liangshuijing                 |
+| Lianhe                        |
+| Lianyuan                      |
+| Libochovice                   |
+| Libog                         |
+| Libu                          |
+| Limmared                      |
+| Limulunga                     |
+| Linamon                       |
+| Linao                         |
+| Lincoln                       |
+| Linëvo                        |
+| Lintan Chengguanzhen          |
+| Linxia Chengguanzhen          |
+| Lipiany                       |
+| Liping                        |
+| Lishu                         |
+| Liujiage                      |
+| Liuliping                     |
+| Liwonde                       |
+| Ljungby                       |
+| Llocllapampa                  |
+| Lobos                         |
+| Long Beluah                   |
+| Longfeng                      |
+| Longjing                      |
+| Longmen                       |
+| Longnan                       |
+| Los Angeles                   |
+| Loughrea                      |
+| Louisville                    |
+| Lubao                         |
+| Lucma                         |
+| Lukavice                      |
+| Lukou                         |
+| Lundazi                       |
+| Luoxi                         |
+| Luts’k                        |
+| Lwówek ?l?ski                 |
+| Lyambir’                      |
+| Lyon                          |
+| M?sto Libavá                  |
+| Maddela                       |
+| Magbay                        |
+| Magisterial                   |
+| Mahajanga                     |
+| Maizuru                       |
+| Makati City                   |
+| Makueni                       |
+| Malabag                       |
+| Malanów                       |
+| Mali I?oš                     |
+| Malinovskiy                   |
+| Mališevo                      |
+| Maluso                        |
+| Manaquiri                     |
+| Mangaran                      |
+| Mang’it Shahri                |
+| Manika                        |
+| Manjakandriana                |
+| Marco                         |
+| Margasana                     |
+| Maroantsetra                  |
+| Marquard                      |
+| Masebewa                      |
+| Maskinongé                    |
+| Masparrito                    |
+| Maubasa                       |
+| Mauren                        |
+| Mayahi                        |
+| Mayumba                       |
+| Medicine Hat                  |
+| Meilin                        |
+| Mem Martins                   |
+| Menampukrajan                 |
+| Miami                         |
+| Miaotou                       |
+| Miasteczko ?l?skie            |
+| Micoud                        |
+| Midrand                       |
+| Mikhaylovsk                   |
+| Mikulášovice                  |
+| Mikumi                        |
+| Milicz                        |
+| Mineralni Bani                |
+| Minggang                      |
+| Mmathubudukwane               |
+| Monaghan                      |
+| Monte de Fralães              |
+| Montenegro                    |
+| Montgomery                    |
+| Montpellier                   |
+| Moravský Beroun               |
+| Moyo                          |
+| Mrkonji? Grad                 |
+| Mu?ambal                      |
+| Mucurapo                      |
+| Mujães                        |
+| Muliang                       |
+| Muroran                       |
+| Murun-kuren                   |
+| Mutangyuan                    |
+| Nagaracinta                   |
+| Namp’o                        |
+| Nancun                        |
+| Nancy                         |
+| Nangerang                     |
+| Nansheng                      |
+| Navariya                      |
+| Nazaré                        |
+| Nefta                         |
+| Neftçala                      |
+| Negara                        |
+| Nejo                          |
+| Netrakona                     |
+| Nevinnomyssk                  |
+| New Orleans                   |
+| Newark                        |
+| Newmarket on Fergus           |
+| Ngawi                         |
+| Ngrejo                        |
+| Ngujuran                      |
+| Nikolinci                     |
+| Nine                          |
+| Niny                          |
+| Nizhnepavlovka                |
+| Ni’ao                         |
+| Noginsk                       |
+| Nordeste                      |
+| Norrköping                    |
+| Nova Prata                    |
+| Novallas                      |
+| Novaya Usman’                 |
+| Novocherkassk                 |
+| Novouzensk                    |
+| Noyakert                      |
+| Nurota Shahri                 |
+| Nzérékoré                     |
+| Odiongan                      |
+| Oebai                         |
+| Oenopu                        |
+| Oesain                        |
+| Oke Ila                       |
+| Oklahoma City                 |
+| Ollachea                      |
+| Olofström                     |
+| Orléans                       |
+| Orsay                         |
+| Osilnica                      |
+| Oslo                          |
+| Ostrowsko                     |
+| Otaru                         |
+| Otuke                         |
+| Oyan                          |
+| P?r Naogaon                   |
+| Paarl                         |
+| Paço                          |
+| Padre Nabeto                  |
+| Pakembangan                   |
+| Palagao Norte                 |
+| Palebunan                     |
+| Palermo                       |
+| Palmira                       |
+| Paltashaco                    |
+| Pameungpeuk                   |
+| Pandan Niog                   |
+| Panganiban                    |
+| Panshi                        |
+| Pantijan No 2                 |
+| Papeete                       |
+| Papelón                       |
+| Paracambi                     |
+| Pardesiyya                    |
+| Parengan                      |
+| Paris 03                      |
+| Paris 17                      |
+| Paris 19                      |
+| Paris 20                      |
+| Paris La Défense              |
+| Parobé                        |
+| Partido                       |
+| Patemon                       |
+| Patpata Segundo               |
+| Paty do Alferes               |
+| Pau                           |
+| Pavlovsk                      |
+| Pecatu                        |
+| Pedreira                      |
+| Petrovskaya                   |
+| Peuara                        |
+| Piedade                       |
+| Piketberg                     |
+| Pimentel                      |
+| Pinheiros                     |
+| Piotrków Trybunalski          |
+| Piquillín                     |
+| Pirané                        |
+| Pirca                         |
+| Pitoma?a                      |
+| Pittsburgh                    |
+| Plaeng Yao                    |
+| Platagata                     |
+| Plesná                        |
+| Ploemeur                      |
+| Pocito                        |
+| Pogorzyce                     |
+| Pojok                         |
+| Pokrovskoye                   |
+| Polyarnyy                     |
+| Pombal                        |
+| Pompéia                       |
+| Pondokkaha Kelod              |
+| Ponggok                       |
+| Ponta da Garça                |
+| Ponta Porã                    |
+| Ponte Nova                    |
+| Porsgrunn                     |
+| Prabuty                       |
+| Praszka                       |
+| Pregrada                      |
+| Prigi                         |
+| Princeville                   |
+| Progreso                      |
+| Prokhladnyy                   |
+| Pueblo Nuevo                  |
+| Puerto Bello                  |
+| Puerto Mayor Otaño            |
+| Puerto Quellón                |
+| Puerto Rico                   |
+| Pulau Pinang                  |
+| Pustá Polom                   |
+| Putatbasiun                   |
+| Qiaosi                        |
+| Qiewa                         |
+| Qimeng                        |
+| Qingqu                        |
+| Qingyang                      |
+| Quarteira                     |
+| Quebradas                     |
+| Querocotillo                  |
+| Quezon                        |
+| Quintã                        |
+| Qulai                         |
+| Radim??                       |
+| Ramenki                       |
+| Razumnoye                     |
+| Rejowinangun                  |
+| Renchaoxi                     |
+| Renhe                         |
+| Resende                       |
+| Riberalta                     |
+| Ricardo Flores Magon          |
+| Rio Claro                     |
+| Rio Covo ( Santa Eulália )    |
+| Rio de Mouro                  |
+| Rio Grande da Serra           |
+| Riyadh                        |
+| Roanoke                       |
+| Roblin                        |
+| Rodhítsa                      |
+| Rokitno                       |
+| Roma                          |
+| Rosebank                      |
+| Rosetta                       |
+| Rowotengah                    |
+| Rukem                         |
+| S?ja                          |
+| S?r?s                         |
+| Sacotes                       |
+| Sacramento                    |
+| Sadang Kulon                  |
+| Sadar Bazar                   |
+| Sagbayan                      |
+| Saint-Brieuc                  |
+| Salavat                       |
+| Salegading                    |
+| Salwá                         |
+| Sam Chuk                      |
+| San Agustin                   |
+| San Andres                    |
+| San Casimiro                  |
+| San Cristóbal Verapaz         |
+| San Fernando                  |
+| San Isidro                    |
+| San Juan Bautista             |
+| San Miguelito                 |
+| San Vicente                   |
+| Sancti Spíritus               |
+| Sandy Bay                     |
+| Sandyford                     |
+| Sangongqiao                   |
+| Sanhe                         |
+| Sanjia                        |
+| Sanjiang                      |
+| Sanlian                       |
+| Santa Ana Huista              |
+| Santa Barbara                 |
+| Santa Bárbara d'Oeste         |
+| Santa Cruz                    |
+| Santo Adrião Vizela           |
+| Santo André                   |
+| Santo Domingo Oeste           |
+| Sapotskin                     |
+| Sartana                       |
+| Sarvaš                        |
+| Satinka                       |
+| Satuba                        |
+| Savran’                       |
+| Sawankhalok                   |
+| Sayán                         |
+| Sayapullo                     |
+| Secunda                       |
+| Seda                          |
+| Séguéla                       |
+| Seleuš                        |
+| Sembon                        |
+| Senduro                       |
+| Seongnam-si                   |
+| Serra                         |
+| Serra D'El Rei                |
+| Severnyy                      |
+| Sexiong                       |
+| Shangma                       |
+| Shangping                     |
+| Shangyong                     |
+| Shanmuqiao                    |
+| Shanshu                       |
+| Shënmëri                      |
+| Shetangpo                     |
+| Shibli                        |
+| Shihuiyao                     |
+| Shilovo                       |
+| Shimen                        |
+| Shuangmiaojie                 |
+| Shuangxi                      |
+| Shuiquan                      |
+| Shuiyang                      |
+| Shunyi                        |
+| Sidu                          |
+| Sigaboy                       |
+| Silongin                      |
+| Simimbaan                     |
+| Simpangpasir                  |
+| Sinamar                       |
+| Singida                       |
+| Sinop                         |
+| Sirnarasa                     |
+| Skaudvil?                     |
+| Skotoússa                     |
+| Smiltene                      |
+| Snegiri                       |
+| Sobral da Abelheira           |
+| Soe                           |
+| Soest                         |
+| Solingen                      |
+| Solnechnyy                    |
+| Sol’tsy                       |
+| Sonder                        |
+| Songhae                       |
+| Srokowo                       |
+| Staffanstorp                  |
+| Stari Kuty                    |
+| Staropavlovskaya              |
+| Stochov                       |
+| Stockholm                     |
+| Straszyn                      |
+| Stratónion                    |
+| Strážná                       |
+| Strellc i Ulët                |
+| Suchy D?b                     |
+| Sudislavl’                    |
+| Sukamaju                      |
+| Sukarama                      |
+| Sulop                         |
+| Sumurgeneng                   |
+| Sutysky                       |
+| Sztum                         |
+| Sölvesborg                    |
+| Tabogon                       |
+| Tabonoc                       |
+| Tacoma                        |
+| Tadou                         |
+| Tagog                         |
+| Taipingzhuang                 |
+| Taixi                         |
+| Taizi                         |
+| Tajike’abati                  |
+| Takasaki                      |
+| Tala                          |
+| Talagasari                    |
+| Talalayivka                   |
+| Talok                         |
+| Tampekan                      |
+| Tando Muhammad Kh?n           |
+| Tangalla                      |
+| Tangga                        |
+| Tanguá                        |
+| Tanout                        |
+| Taoyao                        |
+| Taoyuan                       |
+| Tapes                         |
+| Tarakaniv                     |
+| Tartu                         |
+| Tas?l                         |
+| Tayuan                        |
+| Temirtau                      |
+| Tengger                       |
+| Terang                        |
+| Th? Tr?n Mù Cang Ch?i         |
+| Th?ru Sh?h                    |
+| Tha Maka                      |
+| Thetford-Mines                |
+| Tidili Mesfioua               |
+| Tongmuluo                     |
+| Tong’an                       |
+| Tres Arroyos                  |
+| Três Coroas                   |
+| Trinidad                      |
+| Trnovska Vas                  |
+| Trubchevsk                    |
+| Tu?epi                        |
+| Tukums                        |
+| Tulcán                        |
+| Tundagan                      |
+| Tungi                         |
+| T’et’ri Tsqaro                |
+| Ubaitaba                      |
+| Ulundi                        |
+| Umburarameha                  |
+| Unecha                        |
+| Ungaran                       |
+| Usogorsk                      |
+| Ustynivka                     |
+| Utabi                         |
+| V? Th?                        |
+| Valbo                         |
+| Vale da Serra                 |
+| Vale das Mós                  |
+| Vale de Figueira              |
+| Vales                         |
+| Vallentuna                    |
+| Valsamáta                     |
+| Vangaži                       |
+| Vaulx-en-Velin                |
+| Ventersdorp                   |
+| Vermil                        |
+| Vila Viçosa                   |
+| Villa Bustos                  |
+| Villa del Rosario             |
+| Vista Hermosa                 |
+| Vistino                       |
+| Volgograd                     |
+| Volodarsk                     |
+| Vukovar                       |
+| Vårby                         |
+| Västerås                      |
+| Wagini                        |
+| Waiwejak                      |
+| Wanganui                      |
+| Washington                    |
+| Watthana Nakhon               |
+| Watuweri                      |
+| Wenwusha                      |
+| West Palm Beach               |
+| Wiang Chiang Rung             |
+| Winneba                       |
+| Woja                          |
+| Woniuhe                       |
+| Wonorejo Dua                  |
+| Wonosari                      |
+| Wufeng                        |
+| Wulong                        |
+| Wuluquele                     |
+| Wuyang                        |
+| Wydminy                       |
+| Xiachengzi                    |
+| Xiangang                      |
+| Xiaoshan                      |
+| Xiayang                       |
+| Xilin                         |
+| Xinchengpu                    |
+| Xin’an                        |
+| Xishan                        |
+| Xiyuan                        |
+| Xuanhua                       |
+| Yafan                         |
+| Yala                          |
+| Yamen                         |
+| Yangkou                       |
+| Yanglin                       |
+| Yantai                        |
+| Yashiro                       |
+| Yihe                          |
+| Yitulihe                      |
+| Yixingfu                      |
+| Yongfa                        |
+| Youkaichi                     |
+| Youwei                        |
+| Yuanyang Zhen                 |
+| Yucun                         |
+| Yujiao                        |
+| Yunlong                       |
+| Zabierzów                     |
+| Zalanga                       |
+| Zaokskiy                      |
+| Zaqatala                      |
+| Zaragoza                      |
+| Zavidovo                      |
+| Zeist                         |
+| Zhajin                        |
+| Zhangdu                       |
+| Zhanghua                      |
+| Zhangping                     |
+| Zhengwan                      |
+| Zhichu                        |
+| Zhongguanyi                   |
+| Zhongnan                      |
+| Zhosaly                       |
+| Zhouhu                        |
+| Zhoutie                       |
+| Zhuangbu                      |
+| Zhuhu                         |
+| Zhujiapu                      |
+| Zhukovskiy                    |
+| Zhutang                       |
+| Zlatni Pyasatsi               |
+| Znamenskoye                   |
+| Zouparria do Monte            |
+| Zubtsov                       |
+| Zwolle                        |
+| Ålesund                       |
+| Åmål                          |
+| Örebro                        |
+| Šalovci                       |
+| Štoky                         |
+| ‘Ibr?                         |
++-------------------------------+

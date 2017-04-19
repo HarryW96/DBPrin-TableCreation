@@ -1,6 +1,6 @@
 create database dbprin_cwk;
 
-create table event (
+create table event(
   eventID int auto_increment,
   eventName varchar(50) not null,
   eventDate date not null,
@@ -8,7 +8,8 @@ create table event (
   eventCost int not null,
   eventLocation varchar(50) not null,
   eventLength_Km int not null,
-  primary key (eventID));
+  primary key (eventID)
+);
 
 create table volunteer(
   volunteerID int auto_increment,
@@ -28,7 +29,7 @@ create table eventVolunteer(
   references event(eventID),
   foreign key(volunteerID)
   references volunteer(volunteerID),
-  primary key (eventAssignment)
+  primary key (volunteerEventAssignment)
 );
 
 create table staff(
@@ -62,21 +63,20 @@ create table participent(
   primary key(participentID)
 );
 
--------TO DO--------
 create table eventParticipent(
   participationNum int auto_increment,
   eventID int,
   participentID int,
   paid boolean not null,
   result int,
-  eventTime time,
+  eventTime varchar(10),
   foreign key(eventID)
   references event(eventID),
   foreign key(participentID)
   references participent(participentID),
-  primary key (participentNum)
+  primary key (participationNum)
 );
---------------------
+
 create table station(
   stationID int auto_increment,
   eventID int null,
@@ -113,3 +113,7 @@ create table invoice(
   references event(eventID),
   primary key(invoiceID)
 );
+
+
+
+

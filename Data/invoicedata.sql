@@ -498,3 +498,13 @@ insert into invoice (clientID, eventID, moneyOwed, dateIssued, dateDue) values (
 insert into invoice (clientID, eventID, moneyOwed, dateIssued, dateDue) values (21, 16023, 117, '2014-10-17', '2019-12-28');
 insert into invoice (clientID, eventID, moneyOwed, dateIssued, dateDue) values (99, 9428, 67, '2014-05-09', '2022-06-29');
 insert into invoice (clientID, eventID, moneyOwed, dateIssued, dateDue) values (82, 19752, 67, '2013-03-10', '2018-08-07');
+
+insert into invoice (clientID, eventID, moneyOwed, dateIssued, dateDue)
+  select clientID, eventID, moneyOwed, dateIssued, dateDue from invoice;
+  select count(*) from client;
+
+create table invoice2 like invoice;
+  insert into invoice2 (clientID, eventID, moneyOwed, dateIssued, dateDue) select clientID, eventID, moneyOwed, dateIssued, dateDue from invoice;
+  delete from invoice;
+  insert into invoice select * from invoice2;
+  drop table invoice2;

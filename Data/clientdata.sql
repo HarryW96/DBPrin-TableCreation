@@ -298,3 +298,13 @@ insert into client (companyName, eventID, phoneNum, email, liaisonFName, liaison
 insert into client (companyName, eventID, phoneNum, email, liaisonFName, liaisonLName) values ('dui luctus rutrum', 130, '172477818', 'amartinez89@skyrock.com', 'Anthony', 'Martinez');
 insert into client (companyName, eventID, phoneNum, email, liaisonFName, liaisonLName) values ('sapien sapien non', 215, '158749694', 'mtucker8a@4shared.com', 'Mary', 'Tucker');
 insert into client (companyName, eventID, phoneNum, email, liaisonFName, liaisonLName) values ('quam sapien', 505, '092636375', 'mreid8b@nps.gov', 'Matthew', 'Reid');
+
+insert into  client (companyName, eventID, phoneNum, email, liaisonFName, liaisonLName)
+  select companyName, eventID, phoneNum, email, liaisonFName, liaisonLName from client;
+  select count(*) from client;
+
+create table client2 like client;
+  insert into client2 (companyName, eventID, phoneNum, email, liaisonFName, liaisonLName) select companyName, eventID, phoneNum, email, liaisonFName, liaisonLName from client;
+  delete from client;
+  insert into client select * from client2;
+  drop table client2;

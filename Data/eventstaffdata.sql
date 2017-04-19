@@ -6,7 +6,7 @@ insert into eventStaff(eventID, staffID)
     select count(*) from eventStaff;
 
 update eventStaff set eventID = floor(rand()*32000)+1;
-update eventStaff set staffID = floor(rand()*128000)+1;
+update eventStaff set staffID = floor(rand()*256000)+1;
 
 create table eventStaff2 like eventStaff;
   insert into eventStaff2 (eventID, StaffID) select eventID, StaffID from eventStaff;
