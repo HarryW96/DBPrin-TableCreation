@@ -1,16 +1,38 @@
---Useful things--
-
 FLUSH TABLES;
 
-select eventID, count(distinct participentID) count
-from eventParticipent
-where paid = 0
-group by eventID
-order by count desc
-limit 1;
+--Student Number: UP785080--
 
+/*
+DBPRIN this year has been an interesting unit allowing me to fully expand upon my knowledge learnt last year and apply it in a more 
+practical way with a real world like scenario. From the start of the year I was not sure how I would feel about DBPRIN but quickly 
+found the lecturers were upbeat and very positive when talking in the lectures, making them engaging and interesting. The same can be
+said about practicals and seminars with lecturers being helpful and always willing to support and help with anything I needed.
 
-update *table* set *row* = floor(rand()**number*)+1;
+Being able to extend knowledge from last year and apply it to my database I designed along with working with large amounts of data made
+the unit engaging and entertaining whilst also allowing for a learning curve allowing us to show off the knowledge we were learning in 
+the lectures weekly. I particularly enjoyed the practical building of the database and filling it with data with the new queries we
+had learnt to help with this such as being able to duplicate data and randomise data when required.
+
+Running and creating practical business queries was also interesting as it allowed me to not only practice with optimisation and other
+techniques on my queries to make them run as quickly as possible but also to think about how they would be useful within the Schlepp-
+adoo company when running and organising there large scale events for clients.
+
+Although the unit as a whole went well there were some sections where I had issues with and did struggle to understand. I feel like 
+relational algebra was a subject that was glanced over although never explained very well and was never covered completely. I found it 
+extremely confusing and had issues understanding it and still feel now that I don’t quite understand the way it works.
+
+As well as this I also had a few problems with some of the first sections of the coursework and felt that some of the specification was
+not clear. I feel like this due to the fact that the ERD and design for the database was based on our opinion and felt like it was not 
+marked like that ending in a lower mark. I felt like this occurred due to some of the earlier sections in the unit not being covered 
+extensively. If I was to take the unit again I would enjoy having more detail gone into the early sections and the first term in 
+general with more detail.
+
+Overall I found DBPRIN an extremely interesting and enjoyable unit which easily allowed me to expand on my knowledge from INDADD last 
+year as well as being able to learn about new techniques and parts of database development. This unit is also going to be invaluable 
+when going into placement next year with BAE Systems where I will be working with large scale databases and managing the data within
+them.
+*/
+
 
 /*
 * Query 1
@@ -18,7 +40,8 @@ update *table* set *row* = floor(rand()**number*)+1;
 * Get information about an event and the people participating that haven't yet paid.
 * 
 * Used for chasing up payments or just seeing how many people 
-* still need to pay for event entry
+* still need to pay for event entry, allowing the company to send things
+* such as race numbers/participent numbers if the participent has indeed paid.
 */
 
 select 
@@ -41,8 +64,8 @@ order by eventParticipent.participentID desc;
 * Get information about an event and the staff and volunteers 
 * that will be working including total number of volunteers and staff combined. 
 * 
-* Used to check if more staff or volunteers are needed as well as 
-* their status (such as first aid training) for an event.
+* Used to check number of staff or volunteers working the event allowing for 
+* someone to check if more staff are needed as well as their status (such as first aid training) for an event. 
 */
 
 select
@@ -162,12 +185,3 @@ from participent
 join eventParticipent on eventParticipent.participentID = participent.participentID
 where eventParticipent.eventID = 42876
 and eventParticipent.participationNum = 1414238;
-
-/*
-* 
-* Query 7
-*
-* An idea.
-*
-* 
-*/
